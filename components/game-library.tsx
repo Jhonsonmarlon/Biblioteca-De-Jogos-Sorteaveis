@@ -352,9 +352,9 @@ export default function GameLibrary() {
         </div>
 
         <h1 className="text-4xl font-bold text-green-100 mb-2 flex items-center justify-center">
-          <Sparkles className="w-8 h-8 mr-2 text-green-300" />
+          <Gamepad className="w-8 h-8 mr-2 text-green-300" />
           rePINGO da Peixada
-          <Sparkles className="w-8 h-8 ml-2 text-green-300" />
+          <Gamepad className="w-8 h-8 ml-2 text-green-300" />
         </h1>
         <p className="text-green-200 text-xl">Biblioteca de Jogos Sorteáveis - by JJdev</p>
         <div className="flex justify-center gap-4 mt-2">
