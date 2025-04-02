@@ -326,7 +326,7 @@ export default function GameLibrary() {
             className="relative"
           >
             <img
-              src="https://png.pngtree.com/png-vector/20240520/ourlarge/pngtree-fish-shilhouette-png-image_12499205.png"
+              src="https://img.lovepik.com/png/20230928/cartoon-fish-logo-free-logo-design-template-marine-fish-marine_7617_wh1200.png"
               alt="Silhueta de peixe"
               className="h-24 md:h-32 w-auto filter drop-shadow-lg"
             />
@@ -343,7 +343,7 @@ export default function GameLibrary() {
               className="absolute inset-0 opacity-0 hover:opacity-100"
             >
               <img
-                src="https://png.pngtree.com/png-vector/20240520/ourlarge/pngtree-fish-shilhouette-png-image_12499205.png"
+                src="https://img.lovepik.com/png/20230928/cartoon-fish-logo-free-logo-design-template-marine-fish-marine_7617_wh1200.png"
                 alt="Silhueta de peixe animada"
                 className="h-24 md:h-32 w-auto filter drop-shadow-lg"
               />
@@ -356,7 +356,7 @@ export default function GameLibrary() {
           rePINGO da Peixada
           <Sparkles className="w-8 h-8 ml-2 text-green-300" />
         </h1>
-        <p className="text-green-200 text-xl">Biblioteca de Jogos Sorteáveis</p>
+        <p className="text-green-200 text-xl">Biblioteca de Jogos Sorteáveis - by JJdev</p>
         <div className="flex justify-center gap-4 mt-2">
           <Button
             onClick={exportGamesToFile}
@@ -533,7 +533,7 @@ export default function GameLibrary() {
 
             <div>
               <Label htmlFor="addedBy" className="text-green-200">
-                Adicionado por *
+                Sugerido por *
               </Label>
               <Input
                 id="addedBy"
@@ -643,7 +643,7 @@ export default function GameLibrary() {
 
               <div>
                 <Label htmlFor="edit-addedBy" className="text-green-200">
-                  Adicionado por *
+                  Sugerido por *
                 </Label>
                 <Input
                   id="edit-addedBy"
