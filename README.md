@@ -1,4 +1,5 @@
 # BIBLIOTECA-DE-JOGOS-SORTEAVEIS
 Biblioteca De Jogos Sorteaveis Para Jogar Com o Grupo De Amigos
 
-![fish](https://github.com/user-attachments/assets/489de22e-f97e-431e-97c1-8b4f96c6f303)
+
+![ChatGPT_Image_3_de_abr _de_2025__18_51_18-removebg-preview](https://github.com/user-attachments/assets/5f7038ef-dba2-443d-85c6-f0dab4a6052f)
