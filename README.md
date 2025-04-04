@@ -1,7 +1,6 @@
 
 
 # rePINGO da Peixada 🎮
-![ChatGPT_Image_3_de_abr _de_2025__19_18_50-removebg-preview](https://github.com/user-attachments/assets/61fd4c7c-a6d8-4c8d-9099-9fda22304531)
 
 ## Descrição
 
