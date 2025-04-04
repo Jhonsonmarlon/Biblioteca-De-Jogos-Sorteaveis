@@ -318,41 +318,8 @@ export default function GameLibrary() {
   return (
     <div className="container mx-auto px-4 py-8">
       <header className="text-center mb-8">
-        <div className="flex justify-center mb-4">
-          <motion.div
-            initial={{ y: -20, opacity: 0 }}
-            animate={{ y: 0, opacity: 1 }}
-            transition={{ duration: 0.5 }}
-            className="relative"
-          >
-            <img
-              src="https://private-user-images.githubusercontent.com/111826126/429703574-489de22e-f97e-431e-97c1-8b4f96c6f303.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM2Mzc0NTQsIm5iZiI6MTc0MzYzNzE1NCwicGF0aCI6Ii8xMTE4MjYxMjYvNDI5NzAzNTc0LTQ4OWRlMjJlLWY5N2UtNDMxZS05N2MxLThiNGY5NmM2ZjMwMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQwMlQyMzM5MTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lMTBjNDEwNDk2NWM4YTgwMDVhOGM2MTQyMmM1Yzc3YTYwZjJhODFiYjAwMzk0NmIxZjBhZDk0MjMzNzQ3ZmQxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.LgqsOqbw02KrT8iqL3ePYyLnS1LxK9vaopLAISRFfz0"
-              alt="Silhueta de peixe"
-              className="h-24 md:h-32 w-auto filter drop-shadow-lg"
-            />
-            <motion.div
-              animate={{
-                rotate: [0, 5, 0, -5, 0],
-                x: [0, 3, 0, -3, 0],
-              }}
-              transition={{
-                repeat: Number.POSITIVE_INFINITY,
-                duration: 5,
-                ease: "easeInOut",
-              }}
-              className="absolute inset-0 opacity-0 hover:opacity-100"
-            >
-              <img
-                src="https://private-user-images.githubusercontent.com/111826126/429703574-489de22e-f97e-431e-97c1-8b4f96c6f303.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM2Mzc0NTQsIm5iZiI6MTc0MzYzNzE1NCwicGF0aCI6Ii8xMTE4MjYxMjYvNDI5NzAzNTc0LTQ4OWRlMjJlLWY5N2UtNDMxZS05N2MxLThiNGY5NmM2ZjMwMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQwMlQyMzM5MTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lMTBjNDEwNDk2NWM4YTgwMDVhOGM2MTQyMmM1Yzc3YTYwZjJhODFiYjAwMzk0NmIxZjBhZDk0MjMzNzQ3ZmQxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.LgqsOqbw02KrT8iqL3ePYyLnS1LxK9vaopLAISRFfz0"
-                alt="Silhueta de peixe animada"
-                className="h-24 md:h-32 w-auto filter drop-shadow-lg"
-              />
-            </motion.div>
-          </motion.div>
-        </div>
-
         <h1 className="text-4xl font-bold text-green-100 mb-2 flex items-center justify-center">
-          - rePINGO da Peixada -
+          - LIB GAMES -
         </h1>
         <p className="text-green-200 text-xl">Biblioteca de Jogos Sorteáveis - by JJdev</p>
         <div className="flex justify-center gap-4 mt-2">
