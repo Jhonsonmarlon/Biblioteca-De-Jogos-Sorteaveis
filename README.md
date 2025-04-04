@@ -1,3 +1,6 @@
+
+![logoofc](https://github.com/user-attachments/assets/dc0d4d0d-eb88-4476-83cb-172dc3a23f4a)
+
 # rePINGO da Peixada
 
 ## Descrição
