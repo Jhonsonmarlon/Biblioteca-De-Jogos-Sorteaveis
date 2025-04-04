@@ -90,7 +90,7 @@ Este projeto está licenciado por [@JJdev](https://jhonsondev.com).
 
 Caso tenha alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato!
 
-![Logo ou imagem final](imagem_aqui![logoofc](https://github.com/user-attachments/assets/12568c2d-e7af-4b44-9e5e-f59b126a11e3)
+[logoofc](https://github.com/user-attachments/assets/12568c2d-e7af-4b44-9e5e-f59b126a11e3)
 
 
 ---
